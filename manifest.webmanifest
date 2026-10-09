@@ -1,0 +1,1 @@
+{"name":"SongHub Digital Songbook v1","short_name":"SongHub v1","description":"Search karaoke songs by title, artist or song number","start_url":"./","scope":"./","display":"standalone","background_color":"#10121c","theme_color":"#141625","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
